@@ -1,0 +1,618 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2023.4.13)  1 MAY 2023 17:45
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**report.tex
+(./report.tex
+LaTeX2e <2020-02-02> patch level 2
+L3 programming layer <2020-02-14>
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+)
+\c@part=\count167
+\c@section=\count168
+\c@subsection=\count169
+\c@subsubsection=\count170
+\c@paragraph=\count171
+\c@subparagraph=\count172
+\c@figure=\count173
+\c@table=\count174
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen134
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen135
+\Gin@req@width=\dimen136
+)
+(/usr/share/texlive/texmf-dist/tex/latex/caption/subcaption.sty
+Package: subcaption 2020/01/22 v1.3d Sub-captions (AR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2020/01/03 v3.4h Customizing captions (AR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2020/01/03 v1.8h caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 61.
+\captionmargin=\dimen137
+\captionmargin@=\dimen138
+\captionwidth=\dimen139
+\caption@tempdima=\dimen140
+\caption@indent=\dimen141
+\caption@parindent=\dimen142
+\caption@hangindent=\dimen143
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count175
+\c@continuedfloat=\count176
+)
+\c@subfigure=\count177
+\c@subtable=\count178
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2020/01/20 v2.17e AMS math features
+\@mathmargin=\skip49
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks15
+\ex@=\dimen144
+))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen145
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count179
+LaTeX Info: Redefining \frac on input line 227.
+\uproot@=\count180
+\leftroot@=\count181
+LaTeX Info: Redefining \overline on input line 389.
+\classnum@=\count182
+\DOTSCASE@=\count183
+LaTeX Info: Redefining \ldots on input line 486.
+LaTeX Info: Redefining \dots on input line 489.
+LaTeX Info: Redefining \cdots on input line 610.
+\Mathstrutbox@=\box45
+\strutbox@=\box46
+\big@size=\dimen146
+LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
+\macc@depth=\count184
+\c@MaxMatrixCols=\count185
+\dotsspace@=\muskip16
+\c@parentequation=\count186
+\dspbrk@lvl=\count187
+\tag@help=\toks16
+\row@=\count188
+\column@=\count189
+\maxfields@=\count190
+\andhelp@=\toks17
+\eqnshift@=\dimen147
+\alignsep@=\dimen148
+\tagshift@=\dimen149
+\tagwidth@=\dimen150
+\totwidth@=\dimen151
+\lineht@=\dimen152
+\@envbody=\toks18
+\multlinegap=\skip50
+\multlinetaggap=\skip51
+\mathdisplay@stack=\toks19
+LaTeX Info: Redefining \[ on input line 2859.
+LaTeX Info: Redefining \] on input line 2860.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen153
+\lightrulewidth=\dimen154
+\cmidrulewidth=\dimen155
+\belowrulesep=\dimen156
+\belowbottomsep=\dimen157
+\aboverulesep=\dimen158
+\abovetopsep=\dimen159
+\cmidrulesep=\dimen160
+\cmidrulekern=\dimen161
+\defaultaddspace=\dimen162
+\@cmidla=\count191
+\@cmidlb=\count192
+\@aboverulesep=\dimen163
+\@belowrulesep=\dimen164
+\@thisruleclass=\count193
+\@lastruleclass=\count194
+\@thisrulewidth=\dimen165
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
+Package: array 2019/08/31 v2.4l Tabular extension package (FMi)
+\col@sep=\dimen166
+\ar@mcellbox=\box47
+\extrarowheight=\dimen167
+\NC@list=\toks20
+\extratabsurround=\skip52
+\backup@length=\skip53
+\ar@cellbox=\box48
+)
+(/usr/share/texlive/texmf-dist/tex/latex/multirow/multirow.sty
+Package: multirow 2019/05/31 v2.5 Span multiple rows of a table
+\multirow@colwidth=\skip54
+\multirow@cntb=\count195
+\multirow@dima=\skip55
+\bigstrutjot=\dimen168
+)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2020/01/14 v7.00d Hypertext links for LaTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2019/12/15 v1.24 LaTeX kernel commands for general use (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2019/11/07 v1.0c TeX engine tests
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2019/11/24 v0.31 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
+)
+\@linkdim=\dimen169
+\Hy@linkcounter=\count196
+\Hy@pagecounter=\count197
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2020/01/14 v7.00d Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+(/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count198
+\pdfmajorversion=\count199
+Package hyperref Info: Hyper figures OFF on input line 4547.
+Package hyperref Info: Link nesting OFF on input line 4552.
+Package hyperref Info: Hyper index ON on input line 4555.
+Package hyperref Info: Plain pages OFF on input line 4562.
+Package hyperref Info: Backreferencing OFF on input line 4567.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4800.
+\c@Hy@tempcnt=\count266
+
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5159.
+\XeTeXLinkMargin=\dimen170
+
+(/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count267
+\Field@Width=\dimen171
+\Fld@charsize=\dimen172
+Package hyperref Info: Hyper figures OFF on input line 6430.
+Package hyperref Info: Link nesting OFF on input line 6435.
+Package hyperref Info: Hyper index ON on input line 6438.
+Package hyperref Info: backreferencing OFF on input line 6445.
+Package hyperref Info: Link coloring OFF on input line 6450.
+Package hyperref Info: Link coloring with OCG OFF on input line 6455.
+Package hyperref Info: PDF/A mode OFF on input line 6460.
+LaTeX Info: Redefining \ref on input line 6500.
+LaTeX Info: Redefining \pageref on input line 6504.
+
+(/usr/share/texlive/texmf-dist/tex/generic/atbegshi/atbegshi.sty
+Package: atbegshi 2019/12/05 v1.19 At begin shipout hook (HO)
+)
+\Hy@abspage=\count268
+\c@Item=\count269
+\c@Hfootnote=\count270
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2020/01/14 v7.00d Hyperref driver for pdfTeX
+
+(/usr/share/texlive/texmf-dist/tex/latex/atveryend/atveryend.sty
+Package: atveryend 2019-12-11 v1.11 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+)
+\Fld@listcount=\count271
+\c@bookmark@seq@number=\count272
+
+(/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+86.
+)
+\Hy@SectionHShift=\skip56
+)
+(/usr/share/texlive/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count273
+\lst@gtempboxa=\box49
+\lst@token=\toks21
+\lst@length=\count274
+\lst@currlwidth=\dimen173
+\lst@column=\count275
+\lst@pos=\count276
+\lst@lostspace=\dimen174
+\lst@width=\dimen175
+\lst@newlines=\count277
+\lst@lineno=\count278
+\lst@maxwidth=\dimen176
+
+(/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2019/09/10 1.8c (Carsten Heinz)
+\c@lstnumber=\count279
+\lst@skipnumbers=\count280
+\lst@framebox=\box50
+)
+(/usr/share/texlive/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2019/09/10 1.8c listings configuration
+))
+Package: listings 2019/09/10 1.8c (Carsten Heinz)
+
+(/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count281
+\float@exts=\toks22
+\float@box=\box51
+\@float@everytoks=\toks23
+\@floatcapt=\box52
+)
+(/usr/share/texlive/texmf-dist/tex/latex/placeins/placeins.sty
+Package: placeins 2005/04/18  v 2.2
+)
+(/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2019/09/10 1.8c listings language file
+)
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
+File: l3backend-pdfmode.def 2020-02-03 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count282
+\l__pdf_internal_box=\box53
+)
+(./report.aux
+
+LaTeX Warning: Label `fig:dt_cm_gini_corr' multiply defined.
+
+
+LaTeX Warning: Label `fig:dt_cm_gini_corr' multiply defined.
+
+
+LaTeX Warning: Label `fig:dt_cm_gini_corr' multiply defined.
+
+
+LaTeX Warning: Label `fig:dt_cm_gini_corr' multiply defined.
+
+
+LaTeX Warning: Label `fig:dt_cm_gini_corr' multiply defined.
+
+)
+\openout1 = `report.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+ (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count283
+\scratchdimen=\dimen177
+\scratchbox=\box54
+\nofMPsegments=\count284
+\nofMParguments=\count285
+\everyMPshowfont=\toks24
+\MPscratchCnt=\count286
+\MPscratchDim=\dimen178
+\MPnumerator=\count287
+\makeMPintoPDFobject=\count288
+\everyMPtoPDFconversion=\toks25
+) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: float package is loaded.
+Package caption Info: hyperref package is loaded.
+Package caption Info: listings package is loaded.
+Package caption Info: End \AtBeginDocument code.
+\AtBeginShipoutBox=\box55
+Package hyperref Info: Link coloring OFF on input line 30.
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
+
+(/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count289
+)
+LaTeX Info: Redefining \ref on input line 30.
+LaTeX Info: Redefining \pageref on input line 30.
+LaTeX Info: Redefining \nameref on input line 30.
+
+(./report.out) (./report.out)
+\@outlinefile=\write3
+\openout3 = `report.out'.
+
+\c@lstlisting=\count290
+
+Overfull \hbox (0.8339pt too wide) in paragraph at lines 41--42
+[]\OT1/cmr/m/n/10 Keywords: Cy-ber-se-cu-rity, at-tack type pre-dic-tion, ANN, 
+De-ci-sion Tree, KNN,
+ []
+
+[1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+Overfull \hbox (10.1062pt too wide) in paragraph at lines 58--58
+[]\OT1/cmr/bx/n/14.4 Feature En-gi-neer-ing (di-men-sion-al-ity re-duc-tion) 
+ []
+
+[2]
+Overfull \hbox (4.1833pt too wide) in paragraph at lines 81--81
+[]\OT1/cmr/bx/n/12 Second Clas-si-fi-ca-tion Al-go-rithm: ANN (Ar-ti-fi-cial Ne
+u-
+ []
+
+[3]
+Overfull \hbox (15.62637pt too wide) in paragraph at lines 84--84
+[]\OT1/cmr/bx/n/12 Third Clas-si-fi-ca-tion Al-go-rithm: KNN (K-Nearest Neigh-
+ []
+
+[4] [5] [6]
+<figures/attack_types_frequencies.png, id=120, 722.7pt x 722.7pt>
+File: figures/attack_types_frequencies.png Graphic file (type png)
+<use figures/attack_types_frequencies.png>
+Package pdftex.def Info: figures/attack_types_frequencies.png  used on input li
+ne 164.
+(pdftex.def)             Requested size: 361.3491pt x 361.3491pt.
+
+Overfull \hbox (16.3491pt too wide) in paragraph at lines 164--165
+ [][] 
+ []
+
+<figures/attack_categories_frequencies.png, id=122, 2168.1pt x 1445.4pt>
+File: figures/attack_categories_frequencies.png Graphic file (type png)
+<use figures/attack_categories_frequencies.png>
+Package pdftex.def Info: figures/attack_categories_frequencies.png  used on inp
+ut line 172.
+(pdftex.def)             Requested size: 433.61232pt x 289.07487pt.
+
+Overfull \hbox (88.61232pt too wide) in paragraph at lines 172--173
+ [][] 
+ []
+
+<figures/decision_tree.drawio.png, id=123, 874.26625pt x 723.70375pt>
+File: figures/decision_tree.drawio.png Graphic file (type png)
+<use figures/decision_tree.drawio.png>
+Package pdftex.def Info: figures/decision_tree.drawio.png  used on input line 1
+79.
+(pdftex.def)             Requested size: 437.13205pt x 361.85098pt.
+
+Overfull \hbox (92.13205pt too wide) in paragraph at lines 179--180
+ [][] 
+ []
+
+<figures/Ann_model.png, id=124, 647.41875pt x 723.70375pt>
+File: figures/Ann_model.png Graphic file (type png)
+<use figures/Ann_model.png>
+Package pdftex.def Info: figures/Ann_model.png  used on input line 188.
+(pdftex.def)             Requested size: 323.70857pt x 361.85098pt.
+<figures/KNN.png, id=125, 647.41875pt x 713.66624pt>
+File: figures/KNN.png Graphic file (type png)
+<use figures/KNN.png>
+Package pdftex.def Info: figures/KNN.png  used on input line 197.
+(pdftex.def)             Requested size: 323.70857pt x 356.83224pt.
+<figures/kmeans_cluster.png, id=126, 722.7pt x 722.7pt>
+File: figures/kmeans_cluster.png Graphic file (type png)
+<use figures/kmeans_cluster.png>
+Package pdftex.def Info: figures/kmeans_cluster.png  used on input line 204.
+(pdftex.def)             Requested size: 361.3491pt x 361.3491pt.
+
+Overfull \hbox (16.3491pt too wide) in paragraph at lines 204--205
+ [][] 
+ []
+
+<figures/kmeans_cluster_1.png, id=127, 722.7pt x 722.7pt>
+File: figures/kmeans_cluster_1.png Graphic file (type png)
+<use figures/kmeans_cluster_1.png>
+Package pdftex.def Info: figures/kmeans_cluster_1.png  used on input line 211.
+(pdftex.def)             Requested size: 361.3491pt x 361.3491pt.
+
+Overfull \hbox (16.3491pt too wide) in paragraph at lines 211--212
+ [][] 
+ []
+
+File: figures/kmeans_cluster_1.png Graphic file (type png)
+<use figures/kmeans_cluster_1.png>
+Package pdftex.def Info: figures/kmeans_cluster_1.png  used on input line 218.
+(pdftex.def)             Requested size: 361.3491pt x 361.3491pt.
+
+Overfull \hbox (16.3491pt too wide) in paragraph at lines 218--219
+ [][] 
+ []
+
+<figures/cm_dt_ig_entropy.png, id=128, 433.62pt x 289.08pt>
+File: figures/cm_dt_ig_entropy.png Graphic file (type png)
+<use figures/cm_dt_ig_entropy.png>
+Package pdftex.def Info: figures/cm_dt_ig_entropy.png  used on input line 225.
+(pdftex.def)             Requested size: 216.80946pt x 144.53964pt.
+<figures/cm_dt_ig_gini.png, id=129, 433.62pt x 289.08pt>
+File: figures/cm_dt_ig_gini.png Graphic file (type png)
+<use figures/cm_dt_ig_gini.png>
+Package pdftex.def Info: figures/cm_dt_ig_gini.png  used on input line 233.
+(pdftex.def)             Requested size: 216.80946pt x 144.53964pt.
+<figures/cm_dt_corr_entropy.png, id=130, 433.62pt x 289.08pt>
+File: figures/cm_dt_corr_entropy.png Graphic file (type png)
+<use figures/cm_dt_corr_entropy.png>
+Package pdftex.def Info: figures/cm_dt_corr_entropy.png  used on input line 240
+.
+(pdftex.def)             Requested size: 216.80946pt x 144.53964pt.
+<figures/cm_dt_corr_gini.png, id=131, 433.62pt x 289.08pt>
+File: figures/cm_dt_corr_gini.png Graphic file (type png)
+<use figures/cm_dt_corr_gini.png>
+Package pdftex.def Info: figures/cm_dt_corr_gini.png  used on input line 247.
+(pdftex.def)             Requested size: 216.80946pt x 144.53964pt.
+<figures/cm_ann_corr.png, id=132, 433.62pt x 289.08pt>
+File: figures/cm_ann_corr.png Graphic file (type png)
+<use figures/cm_ann_corr.png>
+Package pdftex.def Info: figures/cm_ann_corr.png  used on input line 254.
+(pdftex.def)             Requested size: 216.80946pt x 144.53964pt.
+<figures/cm_ann_ig.png, id=133, 433.62pt x 289.08pt>
+File: figures/cm_ann_ig.png Graphic file (type png)
+<use figures/cm_ann_ig.png>
+Package pdftex.def Info: figures/cm_ann_ig.png  used on input line 262.
+(pdftex.def)             Requested size: 216.80946pt x 144.53964pt.
+<figures/cm_knn_corr.png, id=134, 433.62pt x 289.08pt>
+File: figures/cm_knn_corr.png Graphic file (type png)
+<use figures/cm_knn_corr.png>
+Package pdftex.def Info: figures/cm_knn_corr.png  used on input line 269.
+(pdftex.def)             Requested size: 216.80946pt x 144.53964pt.
+<figures/cm_knn_ig.png, id=135, 433.62pt x 289.08pt>
+File: figures/cm_knn_ig.png Graphic file (type png)
+<use figures/cm_knn_ig.png>
+Package pdftex.def Info: figures/cm_knn_ig.png  used on input line 276.
+(pdftex.def)             Requested size: 216.80946pt x 144.53964pt.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 282.
+[7] [8 <./figures/attack_types_frequencies.png>] [9 <./figures/attack_categorie
+s_frequencies.png>] [10 <./figures/decision_tree.drawio.png>] [11 <./figures/An
+n_model.png>] [12 <./figures/KNN.png>] [13 <./figures/kmeans_cluster.png>]
+[14 <./figures/kmeans_cluster_1.png>] [15] [16 <./figures/cm_dt_ig_entropy.png>
+ <./figures/cm_dt_ig_gini.png>] [17 <./figures/cm_dt_corr_entropy.png> <./figur
+es/cm_dt_corr_gini.png> <./figures/cm_ann_corr.png>] [18 <./figures/cm_ann_ig.p
+ng> <./figures/cm_knn_corr.png> <./figures/cm_knn_ig.png>]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 282.
+ (./report.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 282.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 282.
+Package rerunfilecheck Info: File `report.out' has not changed.
+(rerunfilecheck)             Checksum: 8AB9B719A5964D5952F39FCCE26D8AB5;1972.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 282.
+ ) 
+Here is how much of TeX's memory you used:
+ 9122 strings out of 481239
+ 138894 string characters out of 5920377
+ 596030 words of memory out of 5000000
+ 24180 multiletter control sequences out of 15000+600000
+ 538056 words of font info for 44 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 48i,8n,46p,1256b,377s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/share/texli
+ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dis
+t/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts
+/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/
+public/amsfonts/cm/cmr17.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm
+1000.pfb>
+Output written on report.pdf (18 pages, 549826 bytes).
+PDF statistics:
+ 255 PDF objects out of 1000 (max. 8388607)
+ 197 compressed objects within 2 object streams
+ 57 named destinations out of 1000 (max. 500000)
+ 244 words of extra memory for PDF output out of 10000 (max. 10000000)
+
